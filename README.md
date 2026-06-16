@@ -20,6 +20,3 @@ SQL analysis of a retail superstore dataset containing 9,800+ orders.
 ## Tools Used
 - MySQL Workbench
 - Dataset: Superstore Sales Dataset (Kaggle)
-
-## Key Findings
-- [Add your findings here after running your queries]
